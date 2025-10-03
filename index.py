@@ -213,5 +213,3 @@ if __name__ == "__main__":
     state = WindowState()
     app = ResponsiveWindow(state)
     app.mainloop()
-
-#test
